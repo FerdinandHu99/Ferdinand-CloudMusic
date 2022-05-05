@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FramelessPage.qml</file>
+        <file>HeaderMain.qml</file>
+        <file>FButton.qml</file>
+        <file>Images/HeaderMain/close.png</file>
+        <file>Images/HeaderMain/logo.png</file>
+        <file>Images/HeaderMain/max.png</file>
+        <file>Images/HeaderMain/min.png</file>
+        <file>Images/HeaderMain/normal.png</file>
+        <file>Images/HeaderMain/mini.png</file>
+        <file>Images/HeaderMain/message.png</file>
+        <file>Images/HeaderMain/setup.png</file>
+        <file>Images/HeaderMain/skin.png</file>
+        <file>Images/HeaderMain/vip_no.png</file>
+        <file>Images/HeaderMain/vip_yes.png</file>
+        <file>Images/HeaderMain/down.png</file>
+        <file>Images/HeaderMain/head.jpg</file>
+        <file>FCircularHead.qml</file>
+        <file>Images/HeaderMain/microphone.png</file>
+        <file>FRoundButton.qml</file>
+        <file>Images/HeaderMain/left.png</file>
+        <file>Images/HeaderMain/right.png</file>
+        <file>FSearchBox.qml</file>
+        <file>Images/HeaderMain/search.png</file>
+        <file>FSearchRectangle.qml</file>
+    </qresource>
+</RCC>

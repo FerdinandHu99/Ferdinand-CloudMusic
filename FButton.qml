@@ -14,9 +14,9 @@ Item {
         id: mouseArea
         anchors.fill: parent
         hoverEnabled: true
-//        onClicked: {
-//            root.clicked()
-//        }
+        onClicked: {
+            root.clicked()
+        }
         //当鼠标进入范围内，鼠标样式变成手指，并且不透明度变高
         onEntered: {
             cursorShape = Qt.PointingHandCursor

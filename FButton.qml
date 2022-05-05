@@ -17,6 +17,7 @@ Item {
 //        onClicked: {
 //            root.clicked()
 //        }
+//加上一个注释
         //当鼠标进入范围内，鼠标样式变成手指，并且不透明度变高
         onEntered: {
             cursorShape = Qt.PointingHandCursor
